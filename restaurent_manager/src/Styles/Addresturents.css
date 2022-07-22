@@ -1,0 +1,79 @@
+.addform{
+        margin-top: 2.5vw;
+        margin-bottom: 2.5vw;
+        display: flex;
+        overflow: auto;
+        flex-direction: column;
+        width:45%;
+        padding:1.5vw;
+        margin-left: auto;
+        margin-right: auto;
+        border: 3.5px solid rgb(181, 17, 34);
+        border-radius: 5px;
+}
+.addform>input{
+        margin-bottom: 1vw;
+        height: 2.5vw;
+        color: rgb(181, 17, 34);
+        font-size: 1.5vw;
+        border: 1px solid rgb(210, 33, 51);
+}
+.addform>input:focus{
+        outline: 1px solid rgb(210, 33, 51);
+}
+.addform>button{
+        width:40%;
+        font-family: Arial, sans-serif;
+        background-color:rgb(159, 3, 19);
+        border: none;
+        border-radius: 2px;
+        height: 3vw;
+        margin-left: auto;
+        margin-right: auto;
+        color: white;
+        font-size: 2vw;
+        font-weight: 500;
+}
+.payment-options{
+        margin-bottom: 1vw;
+        color: rgb(239, 10, 32);
+        font-size: 1.5vw;
+        border: 1px solid rgb(239, 10, 32);
+        overflow: hidden;
+        padding:.25vw;
+        
+}
+.payment-options:focus{
+      outline: 1px solid rgb(239, 10, 32);
+}
+.payment-options>option{
+        color: rgb(239, 10, 32);
+        font-size: 1.5vw;
+        margin-top: .5vw;
+        border: 1px solid rgb(239, 10, 32);
+        text-align: center;
+        width:50%;
+        margin-left: auto;
+        margin-right: auto;
+}
+.payment-optext{
+        font-family: Copperplate, Papyrus, fantasy;
+        margin-bottom: 1vw;
+        color: rgb(164, 27, 59);
+        font-size: 1.25vw;
+        font-weight: 600;
+}
+.formheading{
+        font-family: Copperplate, Papyrus, fantasy;
+        margin-bottom: 1vw;
+        color: rgb(164, 27, 59);
+        font-size: 1.5vw;
+        font-weight: 600;
+}
+.payment-optext1{
+        font-family: Copperplate, Papyrus, fantasy;
+        margin-bottom: .8vw;
+        color: rgb(228, 26, 46);
+        font-size: 1.25vw;
+        font-weight: 700;
+}

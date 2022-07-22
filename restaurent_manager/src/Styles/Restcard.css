@@ -1,0 +1,31 @@
+.card-div{
+        margin-top: 2.5vw;
+        display: flex;
+        overflow: auto;
+        flex-direction: column;
+        width:50%;
+        padding:2vw;
+        margin-left: auto;
+        margin-right: auto;
+        border: 3px solid rgb(239, 10, 32);
+        text-align: center;
+        font-family: Arial, sans-serif;
+        font-size: 2vw;
+        color:rgb(164, 27, 59);
+}
+.cardName{
+        font-family:Copperplate, Papyrus, fantasy;
+        font-weight: 700;
+        font-size: 2vw;
+        text-transform: uppercase;
+}
+.imageDiv{
+        width:80%;
+        margin-left: auto;
+        margin-right: auto;
+
+}
+.imageDiv>img{
+        aspect-ratio: 16/9;
+        width: 100%;
+}

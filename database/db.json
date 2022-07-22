@@ -1,0 +1,154 @@
+{
+  "resturents": [
+    {
+      "id": 1099,
+      "name": "The Kalika Hut",
+      "url": "https://b.zmtcdn.com/data/pictures/3/801103/1dc6365d98f252fa7c9b919c8ef22e46_o2_featured_v2.jpg?output-format=webp",
+      "cost": 250,
+      "votes": 5016,
+      "rating": 4.5,
+      "catagories": "North Indian, Chinese",
+      "payment methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": "4c2886dc-68f6-44b8-bc55-247e25eeca33",
+      "name": "Dehli Chaat Bhandaar",
+      "url": "https://b.zmtcdn.com/data/pictures/6/20124856/12b5bb1e536dd6b3833d04934931ee08_featured_v2.jpg",
+      "cost": "500",
+      "votes": 200,
+      "rating": 3,
+      "catagories": "North Indian, Chinese",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": "089cf518-8ef8-4d2a-b158-6a26743fcee5",
+      "name": "Raja Cafe 2021",
+      "url": "https://b.zmtcdn.com/data/pictures/6/20124856/823f13a8921b984378549f01e2ab6af3.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+      "cost": "250",
+      "votes": 130,
+      "rating": 4,
+      "catagories": "Nonveg, Baverages",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": "6fdeda2b-2f7e-4374-b6a2-1751d5b7e568",
+      "name": "Dalchini Family Restaurant by Hotel Rama Inn",
+      "url": "https://b.zmtcdn.com/data/pictures/5/20234585/d99150b7dbd472fab289ee273cbe297a.jpg?fit=around|300:273&crop=300:273;*,*",
+      "cost": "1000",
+      "votes": 5000,
+      "rating": 2,
+      "catagories": "South Indian, Italian",
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": false
+      }
+    },
+    {
+      "id": "8a063ae5-05e0-4360-bd4d-f369ce8a4b27",
+      "name": "Al Baik Lucknowi",
+      "url": "https://b.zmtcdn.com/data/pictures/1/19639671/e0b266d3087369e2f3660eacf745726d.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "catagories": "Fast Food, Burger, Sandwich",
+      "cost": "90",
+      "votes": 659,
+      "rating": 1,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": "59029c79-c6b1-4f07-8a71-4d07769a6ec8",
+      "name": "Pirates of Grill",
+      "url": "https://b.zmtcdn.com/data/pictures/2/18701292/dfe817dd2b67d0bf393cdfd453f25599.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "catagories": "North Indian, Mughlai, Continental, Chinese, Desserts",
+      "cost": "149",
+      "votes": 452,
+      "rating": 4,
+      "payment_methods": {
+        "card": false,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": "50904957-2d77-4d99-a4b7-15868a43edd7",
+      "name": "Kiskey Whiskey",
+      "url": "https://b.zmtcdn.com/data/pictures/chains/6/18888066/b5df74045f921bb21f141bd050a5b070.jpg?output-format=webp&fit=around|300:273&crop=300:273;*,*",
+      "catagories": "North Indian, Continental, Chinese, European, Pasta, Oriental",
+      "cost": "500",
+      "votes": 8000,
+      "rating": 5,
+      "payment_method": {
+        "cash": true,
+        "card": true,
+        "upi": true
+      }
+    },
+    {
+      "id": "4e329bcf-3c15-4227-acd1-b00efd809b1d",
+      "name": "Pinch Of Spice, Agra",
+      "url": "https://b.zmtcdn.com/data/pictures/7/3400017/9ca73d6050b4f8c0feec79da3dd69be1.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "catagories": "North Indian, Chinese, Mughlai",
+      "cost": "199",
+      "votes": 0,
+      "rating": 0,
+      "payment_method": {
+        "cash": true,
+        "card": true,
+        "upi": true
+      }
+    },
+    {
+      "id": "0e1acd8b-1c18-4062-957b-46ba863e316d",
+      "name": "Barbeque Nation",
+      "url": "https://b.zmtcdn.com/data/pictures/chains/0/19091260/ba0ace0f3ce2794fbd54cc762ea3de8f.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "catagories": "BBQ, North Indian, Chinese, Mediterranean, Desserts, Beverages",
+      "cost": "499",
+      "votes": 0,
+      "rating": 0,
+      "payment_method": {
+        "cash": true,
+        "card": true,
+        "upi": true
+      }
+    },
+    {
+      "id": "edd5744b-b5df-42a1-9194-3d5969adad5c",
+      "name": "Hotel Moti Palace-Pankhuri Restaurant",
+      "url": "https://b.zmtcdn.com/data/pictures/2/3400002/d2998dbbd0b2b7b4305269f1cf817b58.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "catagories": "North Indian, Chinese, Continental, South Indian",
+      "cost": "449",
+      "votes": 0,
+      "rating": 0,
+      "payment_method": {
+        "cash": true,
+        "card": true,
+        "upi": true
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "user-name": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
