@@ -6,7 +6,6 @@
         max-height: 15vw;
         border-bottom: 3px solid rgb(239, 10, 32);
         border-top: 3px solid rgb(239, 10, 32);
-        position: sticky;
         top: 0;
         z-index: 100;
         background-color: white;
