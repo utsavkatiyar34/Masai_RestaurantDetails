@@ -146,8 +146,22 @@
       "url": "https://b.zmtcdn.com/data/pictures/chains/9/3400169/a6524c571b9d88527c784f96d4a81837_o2_featured_v2.jpg?output-format=webp",
       "catagories": "North Indian, Continental, Chinese, European, Pasta, Oriental",
       "cost": "249",
-      "votes": 0,
-      "rating": 0,
+      "votes": 1580,
+      "rating": 3.5,
+      "payment_method": {
+        "cash": true,
+        "card": true,
+        "upi": true
+      }
+    },
+    {
+      "id": "8423c124-bf6f-4128-88a9-ac2cc1264e94",
+      "name": "Pizza Hut",
+      "url": "https://b.zmtcdn.com/data/pictures/chains/5/3400105/b5200d2866c85d4d734f59a6f60b2ae1.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "catagories": "Fast Food, Burger, Sandwich, Pizza",
+      "cost": "149",
+      "votes": 658,
+      "rating": 5,
       "payment_method": {
         "cash": true,
         "card": true,
