@@ -1,3 +1,53 @@
 div{
         text-align: center;
 }
+.navbardiv2{
+        display: flex;
+        overflow: auto;
+        flex-direction: row;
+        max-height: 10vw;
+        width:80%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 1vw;
+        padding:.5vw;
+}
+.srchbtn0{
+        background-color: rgb(164, 27, 59);
+        border:none;
+        width:8vw;
+        font-family:Arial, sans-serif;
+        font-size: 1.5vw;
+        color:white;
+        margin-left: auto;
+        margin-right: 0;
+        font-weight: 600;
+        height: 2.8vw;
+        border-radius:5px;
+}
+.srchbtn1{
+        background-color:rgb(164, 27, 59);
+        border:none;
+        width:8vw;
+        font-family:Arial, sans-serif;
+        font-size: 1.5vw;
+        color:white;
+        margin-left: 0;
+        margin-right: auto;
+        font-weight: 600;
+        height: 2.8vw;
+        border-radius:5px;
+}
+.srchbtn2{
+        background-color: rgb(164, 27, 59);
+        border:none;
+        width:5vw;
+        font-family:Arial, sans-serif;
+        font-size: 1.5vw;
+        color:white;
+        margin-left: auto;
+        margin-right: auto;
+        font-weight: 600;
+        height: 2.8vw;
+        border-radius:5px;
+}
